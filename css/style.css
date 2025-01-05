@@ -93,10 +93,7 @@ body{
     transform: scaleX(1);
     transform-origin: bottom left;
 }
-/* adding animation to home section image  */
-.home img{
-    animation: floatimg 4s ease-in-out infinite;
-}
+
 
 @keyframes floatimg {
     0%{
